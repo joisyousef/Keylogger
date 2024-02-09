@@ -11,8 +11,8 @@ This Python script utilizes the Windows API to set up a low-level keyboard hook,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/keyboard-logger.git
-   cd keyboard-logger
+   git clone https://github.com/yousef505050/Keylogger.git
+   cd Keylogger
    ```
 
 2. Run the script:
@@ -62,12 +62,6 @@ A: Ensure you comply with legal and ethical considerations when using this scrip
 ### Q: How can I contribute to the project?
 A: Contributions are welcome! Follow the contributing guidelines mentioned above.
 
-### Q: Are there any known issues?
-A: Check the [issue tracker](https://github.com/your-username/keyboard-logger/issues) for any reported problems or bugs.
-
-### Q: How do I get help?
-A: If you encounter issues or have questions, feel free to open an issue on the [issue tracker](https://github.com/your-username/keyboard-logger/issues).
 
 ```
 
-Remember to replace "your-username" in the clone URL with your actual GitHub username. Customize the content based on the specifics of your script and any additional information you want to provide. Feel free to expand sections or add new ones to better suit your project.
