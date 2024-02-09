@@ -46,10 +46,6 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Special thanks to the contributors who helped improve this script.
