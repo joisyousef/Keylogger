@@ -55,9 +55,3 @@ If you'd like to contribute to this project, please follow these steps:
 ### Q: Can I use this script for any purpose?
 A: Ensure you comply with legal and ethical considerations when using this script. It is your responsibility to use it responsibly and in accordance with applicable laws.
 
-### Q: How can I contribute to the project?
-A: Contributions are welcome! Follow the contributing guidelines mentioned above.
-
-
-```
-
